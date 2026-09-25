@@ -1,0 +1,2 @@
+# .rule dosyaları GitHub'da renklensin
+*.rule linguist-language=INI

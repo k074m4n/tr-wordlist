@@ -1,0 +1,19 @@
+# Kişisel / hassas veriler — asla repoya girmesin
+hash.hc22000
+*.hc22000
+capture*
+*.cap
+*.pcapng
+*.pcap
+benim.txt
+*.potfile
+
+# Üretilen büyük ara dosyalar
+tam_tohum.txt
+w12.txt
+w123.txt
+wordlist.txt
+
+# Python
+__pycache__/
+*.pyc
